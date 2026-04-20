@@ -1,2 +1,5 @@
-# aquacontrole-pi3-univesp
-Projeto Integrador III Univesp- Aquacontrole
+# AquaControle
+
+Projeto Integrador III da Univesp.
+
+Sistema de monitoramento e gerenciamento de aquários.
